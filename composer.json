@@ -8,7 +8,7 @@
     },
     "extra": {
       "patches": {
-        "ehime/hello-world": {  
+        "ehime/hello-world": {
           "[PATCH] markdown modified": "https://github.com/ehime/hello-world/commit/f40bc39e0c0bc667a4d18c63d8dc52088ce94656.patch"
         }
       }
