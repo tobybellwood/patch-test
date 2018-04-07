@@ -3,7 +3,7 @@
     "description": "a test package to demo patching",
     "type": "project",
     "require": {
-        "ehime/hello-world": "1.0.4",
+        "ehime/hello-world": "1.0.5",
         "cweagans/composer-patches": "~1.0"
     },
     "extra": {
